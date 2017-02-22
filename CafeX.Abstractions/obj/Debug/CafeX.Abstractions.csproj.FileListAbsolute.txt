@@ -1,0 +1,7 @@
+C:\Vijay\CafeX\CafeX.Abstractions\bin\Debug\CafeX.Abstractions.dll
+C:\Vijay\CafeX\CafeX.Abstractions\bin\Debug\CafeX.Abstractions.pdb
+C:\Vijay\CafeX\CafeX.Abstractions\bin\Debug\CafeX.Data.dll
+C:\Vijay\CafeX\CafeX.Abstractions\bin\Debug\CafeX.Data.pdb
+C:\Vijay\CafeX\CafeX.Abstractions\obj\Debug\CafeX.Abstractions.csprojResolveAssemblyReference.cache
+C:\Vijay\CafeX\CafeX.Abstractions\obj\Debug\CafeX.Abstractions.dll
+C:\Vijay\CafeX\CafeX.Abstractions\obj\Debug\CafeX.Abstractions.pdb

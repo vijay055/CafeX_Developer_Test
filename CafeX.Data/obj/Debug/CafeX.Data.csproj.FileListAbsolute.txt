@@ -1,0 +1,5 @@
+C:\Vijay\CafeX\CafeX.Data\bin\Debug\CafeX.Data.dll
+C:\Vijay\CafeX\CafeX.Data\bin\Debug\CafeX.Data.pdb
+C:\Vijay\CafeX\CafeX.Data\obj\Debug\CafeX.Data.csprojResolveAssemblyReference.cache
+C:\Vijay\CafeX\CafeX.Data\obj\Debug\CafeX.Data.dll
+C:\Vijay\CafeX\CafeX.Data\obj\Debug\CafeX.Data.pdb

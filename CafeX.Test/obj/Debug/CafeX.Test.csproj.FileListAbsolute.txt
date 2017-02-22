@@ -1,0 +1,14 @@
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.Test.dll
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.Test.pdb
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Vijay\CafeX\CafeX.Test\obj\Debug\CafeX.Test.csprojResolveAssemblyReference.cache
+C:\Vijay\CafeX\CafeX.Test\obj\Debug\CafeX.Test.dll
+C:\Vijay\CafeX\CafeX.Test\obj\Debug\CafeX.Test.pdb
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.Abstractions.dll
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.Data.dll
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.DataStore.dll
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.MockData.dll
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.Abstractions.pdb
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.DataStore.pdb
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.Data.pdb
+C:\Vijay\CafeX\CafeX.Test\bin\Debug\CafeX.MockData.pdb

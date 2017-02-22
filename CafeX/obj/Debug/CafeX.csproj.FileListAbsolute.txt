@@ -1,0 +1,14 @@
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.exe.config
+C:\Vijay\CafeX\CafeX\obj\Debug\CafeX.csprojResolveAssemblyReference.cache
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.exe
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.pdb
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.Data.dll
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.MockData.dll
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.Abstractions.dll
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.Data.pdb
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.MockData.pdb
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.Abstractions.pdb
+C:\Vijay\CafeX\CafeX\obj\Debug\CafeX.exe
+C:\Vijay\CafeX\CafeX\obj\Debug\CafeX.pdb
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.DataStore.dll
+C:\Vijay\CafeX\CafeX\bin\Debug\CafeX.DataStore.pdb
