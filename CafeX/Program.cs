@@ -33,6 +33,9 @@ namespace CafeX
             //print the bill amount (inlcudes tip)
             Console.WriteLine("Bill amount = {0:C} ", billamount);
 
+            billamount = bilmanager.GetBillAmountWithServiceCharge(OrderList);
+            Console.WriteLine("Bill amount = {0:C}", billamount);
+
         }
     }
 }

@@ -31,5 +31,16 @@ namespace CafeX.DataStore
             return amount +_tip;
         }
 
+        /// <summary>
+        /// Gives the bill amount(billamount + tip) with service charge taking customer order
+        /// </summary>
+        /// <param name="custOrder"></param>
+        /// <returns></returns>
+        public decimal GetBillAmountWithServiceCharge(List<CustomerOrder> custOrder)
+        {
+            decimal amount = _dataService.GetBillAmountWithServiceCharge(custOrder);
+
+            return amount + _tip;
+        }
     }
 }
